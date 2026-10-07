@@ -3,5 +3,5 @@
 ### This repository contains Computer Graphics and Multimedia (CGM) lab work and assignments for the 5th Semester of Integrated MCA course.
 
 ## Submitted by :
--**Name:** Tanish Shivhare
--**Roll Number:** IC-2K24-91
+- **Name:** Tanish Shivhare
+- **Roll Number:** IC-2K24-91
