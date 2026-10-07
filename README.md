@@ -1,5 +1,5 @@
 # Assignment_01
-###This is the first assignment of Computer Graphics and Multimedia (CGM). It includes the following-
+### This is the first assignment of Computer Graphics and Multimedia (CGM). It includes the following-
 
 **basic_shapes.cpp** : This file contains the cpp code to draw graphics primitves which includes (Straight line, Rectangle, Circle, Triangle) using graphics library (graphics.h).
 
