@@ -1,6 +1,7 @@
-# Assignment_01
-#### This Computer Graphics and Multimedia (CGM) assignment includes the following-
+# IC-2K24-91-CGM_Lab-TanishShivhare
 
-**basic_shapes.cpp** : This file contains the cpp code to draw graphics primitves which includes (*Straight line, Rectangle, Circle, Triangle*) using graphics library (*graphics.h*).
+### This repository contains Computer Graphics and Multimedia (CGM) lab work and assignments for the 5th Semester of Integrated MCA course.
 
-**output.png** : This is the screenshot of the output genrated when *'basic_shapes.exe'* file is executed. The output is displayed in *'Windows BGI'* output window created by *'WindowsBGIm'* library.
+## Submitted by :
+**Name:** Tanish Shivhare
+**Roll Number:** IC-2K24-91
