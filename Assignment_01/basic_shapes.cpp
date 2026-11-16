@@ -4,7 +4,7 @@
 int main() {
 
     int gd = DETECT, gm;
-    initgraph(&gd, &gm, (char*)"");
+    initgraph(&gd, &gm);
 
     
     setcolor(WHITE);
@@ -12,7 +12,7 @@ int main() {
 
 
     setcolor(YELLOW);
-    circle(100, 150, 40);
+    circle(100, 150, 60);
 
     setcolor(GREEN);
     rectangle(250, 50, 400, 120);
